@@ -1,0 +1,4 @@
+ckeditor
+========
+
+CKEditor sync repository.
